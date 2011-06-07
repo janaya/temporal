@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Bouml (http://bouml.free.fr/) -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="830" height="634" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<g>
+	<polygon fill="none" stroke="black" stroke-opacity="1" points="16,69 802,69 802,79 812,79 812,381 16,381 16,69" />
+	<line stroke="black" stroke-opacity="1" x1="802" y1="69" x2="812" y2="79" />
+	<text font-family="Helvetica" font-size="8" fill="#000000" xml:space="preserve" x="26" y="94">Subscription</text>
+</g>
+<g>
+	<polygon fill="none" stroke="black" stroke-opacity="1" points="14,396 808,396 808,406 818,406 818,622 14,622 14,396" />
+	<line stroke="black" stroke-opacity="1" x1="808" y1="396" x2="818" y2="406" />
+	<text font-family="Helvetica" font-size="8" fill="#000000" xml:space="preserve" x="24" y="421">Publish</text>
+</g>
+<g>
+	<line stroke="black" stroke-dasharray="18,6"  stroke-opacity="1" x1="158" y1="51" x2="158" y2="634" />
+</g>
+<g>
+	<line stroke="black" stroke-dasharray="18,6"  stroke-opacity="1" x1="580" y1="58" x2="580" y2="634" />
+</g>
+<g>
+	<line stroke="black" stroke-dasharray="18,6"  stroke-opacity="1" x1="375" y1="53" x2="375" y2="634" />
+</g>
+<g>
+	<ellipse fill="none" stroke="black" stroke-width="1" stroke-opacity="1" cx="158" cy="13" rx="3" ry="3" />
+	<line stroke="black" stroke-opacity="1" x1="153" y1="19" x2="164" y2="19" />
+	<line stroke="black" stroke-opacity="1" x1="158" y1="16" x2="158" y2="24" />
+	<line stroke="black" stroke-opacity="1" x1="158" y1="24" x2="153" y2="29" />
+	<line stroke="black" stroke-opacity="1" x1="158" y1="24" x2="163" y2="29" />
+	<text font-family="Helvetica" font-size="8" fill="#000000" xml:space="preserve" text-anchor="middle" x="159" y="43">:Subscriber</text>
+</g>
+<g>
+	<ellipse fill="none" stroke="black" stroke-width="1" stroke-opacity="1" cx="580" cy="20" rx="3" ry="3" />
+	<line stroke="black" stroke-opacity="1" x1="575" y1="26" x2="586" y2="26" />
+	<line stroke="black" stroke-opacity="1" x1="580" y1="23" x2="580" y2="31" />
+	<line stroke="black" stroke-opacity="1" x1="580" y1="31" x2="575" y2="36" />
+	<line stroke="black" stroke-opacity="1" x1="580" y1="31" x2="585" y2="36" />
+	<text font-family="Helvetica" font-size="8" fill="#000000" xml:space="preserve" text-anchor="middle" x="581" y="50">:Publisher</text>
+</g>
+<g>
+	<ellipse fill="none" stroke="black" stroke-width="1" stroke-opacity="1" cx="374" cy="15" rx="3" ry="3" />
+	<line stroke="black" stroke-opacity="1" x1="369" y1="21" x2="380" y2="21" />
+	<line stroke="black" stroke-opacity="1" x1="374" y1="18" x2="374" y2="26" />
+	<line stroke="black" stroke-opacity="1" x1="374" y1="26" x2="369" y2="31" />
+	<line stroke="black" stroke-opacity="1" x1="374" y1="26" x2="379" y2="31" />
+	<text font-family="Helvetica" font-size="8" fill="#000000" xml:space="preserve" text-anchor="middle" x="375" y="45">:Hub</text>
+</g>
+<g>
+	<rect fill="#00aa00" stroke="black" stroke-width="1" stroke-opacity="1" x="575" y="147" width="10" height="58" />
+</g>
+<g>
+	<rect fill="#ff00ff" stroke="black" stroke-width="1" stroke-opacity="1" x="153" y="90" width="10" height="53" />
+</g>
+<g>
+	<rect fill="#00aa00" stroke="black" stroke-width="1" stroke-opacity="1" x="575" y="415" width="10" height="63" />
+</g>
+<g>
+	<rect fill="#ff00ff" stroke="black" stroke-width="1" stroke-opacity="1" x="153" y="274" width="10" height="89" />
+</g>
+<g>
+	<rect fill="#ff00ff" stroke="black" stroke-width="1" stroke-opacity="1" x="153" y="151" width="10" height="102" />
+</g>
+<g>
+	<rect fill="#00aa00" stroke="black" stroke-width="1" stroke-opacity="1" x="575" y="485" width="10" height="57" />
+</g>
+<g>
+	<rect fill="#ffd700" stroke="black" stroke-width="1" stroke-opacity="1" x="370" y="280" width="10" height="76" />
+</g>
+<g>
+	<rect fill="#ffd700" stroke="black" stroke-width="1" stroke-opacity="1" x="370" y="214" width="10" height="42" />
+</g>
+<g>
+	<rect fill="#ffd700" stroke="black" stroke-width="1" stroke-opacity="1" x="370" y="437" width="10" height="40" />
+</g>
+<g>
+	<rect fill="#ff00ff" stroke="black" stroke-width="1" stroke-opacity="1" x="153" y="546" width="10" height="44" />
+</g>
+<g>
+	<rect fill="#ffd700" stroke="black" stroke-width="1" stroke-opacity="1" x="370" y="498" width="10" height="92" />
+</g>
+<g>
+	<rect fill="#00aa00" stroke="black" stroke-width="1" stroke-opacity="1" x="575" y="103" width="10" height="36" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="164" y1="108" x2="575" y2="108" />
+	<polygon fill="#000000" stroke="none" points="575,108 571,104 571,112" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="164" y1="162" x2="575" y2="162" />
+	<polygon fill="#000000" stroke="none" points="575,162 571,158 571,166" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="164" y1="221" x2="370" y2="221" />
+	<polygon fill="#000000" stroke="none" points="370,221 366,217 366,225" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="164" y1="346" x2="370" y2="346" />
+	<polygon fill="#000000" stroke="none" points="164,346 168,342 168,350" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="381" y1="504" x2="575" y2="504" />
+	<polygon fill="#000000" stroke="none" points="575,504 571,500 571,508" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="164" y1="190" x2="575" y2="190" />
+	<polygon fill="#000000" stroke="none" points="164,190 168,186 168,194" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="164" y1="248" x2="370" y2="248" />
+	<polygon fill="#000000" stroke="none" points="164,248 168,244 168,252" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="381" y1="529" x2="575" y2="529" />
+	<polygon fill="#000000" stroke="none" points="381,529 385,525 385,533" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="164" y1="288" x2="370" y2="288" />
+	<polygon fill="#000000" stroke="none" points="164,288 168,284 168,292" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="164" y1="317" x2="370" y2="317" />
+	<polygon fill="#000000" stroke="none" points="370,317 366,313 366,321" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="164" y1="551" x2="370" y2="551" />
+	<polygon fill="#000000" stroke="none" points="164,551 168,547 168,555" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="164" y1="576" x2="370" y2="576" />
+	<polygon fill="#000000" stroke="none" points="370,576 366,572 366,580" />
+</g>
+<g>
+	<text font-family="Helvetica" font-size="8" fill="#000000" xml:space="preserve" x="309" y="181">200 [...&lt;atom:link rel='hub' href='http://WSH' /&gt;...]</text>
+</g>
+<g>
+	<text font-family="Helvetica" font-size="8" fill="#000000" xml:space="preserve" x="176" y="152">GET HTTP://P/rss</text>
+</g>
+<g>
+	<text font-family="Helvetica" font-size="8" fill="#000000" xml:space="preserve" x="214" y="212">POST HTTP://H/?mode=subscribe&amp;topic_url=http://P/rss&amp;callback_url=http://S/callback)</text>
+</g>
+<g>
+	<text font-family="Helvetica" font-size="8" fill="#000000" xml:space="preserve" x="339" y="236">20X</text>
+</g>
+<g>
+	<text font-family="Helvetica" font-size="8" fill="#000000" xml:space="preserve" x="186" y="278">GET HTTP://S?hub_challenge=X</text>
+</g>
+<g>
+	<text font-family="Helvetica" font-size="8" fill="#000000" xml:space="preserve" x="170" y="309">200 [X]</text>
+</g>
+<g>
+	<text font-family="Helvetica" font-size="8" fill="#000000" xml:space="preserve" x="333" y="337">20X?</text>
+</g>
+<g>
+	<text font-family="Helvetica" font-size="8" fill="#000000" xml:space="preserve" x="288" y="432">POST HTTP://H/?mode=publish&amp;topic_url=http://P/rss</text>
+</g>
+<g>
+	<text font-family="Helvetica" font-size="8" fill="#000000" xml:space="preserve" x="389" y="455">20X</text>
+</g>
+<g>
+	<text font-family="Helvetica" font-size="8" fill="#000000" xml:space="preserve" x="398" y="495">GET HTTP://P/rss</text>
+</g>
+<g>
+	<text font-family="Helvetica" font-size="8" fill="#000000" xml:space="preserve" x="512" y="519">200 [..xml..]</text>
+</g>
+<g>
+	<text font-family="Helvetica" font-size="8" fill="#000000" xml:space="preserve" x="197" y="542">POST HTTP://S/callback [..xml..]</text>
+</g>
+<g>
+	<text font-family="Helvetica" font-size="8" fill="#000000" xml:space="preserve" x="174" y="567">200</text>
+</g>
+<g>
+	<text font-family="Helvetica" font-size="8" fill="#000000" xml:space="preserve" x="187" y="99">POST HTTP://P/add/follower/http://S</text>
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="164" y1="133" x2="575" y2="133" />
+	<polygon fill="#000000" stroke="none" points="164,133 168,129 168,137" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="381" y1="442" x2="575" y2="442" />
+	<polygon fill="#000000" stroke="none" points="381,442 385,438 385,446" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="381" y1="465" x2="575" y2="465" />
+	<polygon fill="#000000" stroke="none" points="575,465 571,461 571,469" />
+</g>
+</svg>
